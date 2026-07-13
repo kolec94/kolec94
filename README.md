@@ -15,13 +15,22 @@ Focused work across embedded hardware, test rigs, local AI, and infrastructure t
 
 </div>
 
-```text
-root@aitops:~$ ./inventory
+<p align="center"><code>root@aitops:~$ ./inventory</code></p>
 
-Infrastructure  ONLINE
-Knowledge       INDEXED
-Automation      ACTIVE
-```
+<table align="center">
+  <tr>
+    <td><code>Infrastructure</code></td>
+    <td><strong>ONLINE</strong></td>
+  </tr>
+  <tr>
+    <td><code>Knowledge</code></td>
+    <td><strong>INDEXED</strong></td>
+  </tr>
+  <tr>
+    <td><code>Automation</code></td>
+    <td><strong>ACTIVE</strong></td>
+  </tr>
+</table>
 
 ## Featured work
 
