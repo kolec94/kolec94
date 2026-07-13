@@ -35,4 +35,4 @@ Automation      ACTIVE
 
 - Building practical AI infrastructure that connects software to real devices.
 - Prototyping embedded hardware and device-in-loop validation workflows.
-- Developing small, useful tools for lab and IT operations.
+- Engineering automation and observability systems for device infrastructure and hardware validation.
