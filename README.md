@@ -15,22 +15,13 @@ Focused work across embedded hardware, test rigs, local AI, and infrastructure t
 
 </div>
 
-<p align="center"><code>root@aitops:~$ ./inventory</code></p>
-
-<table align="center">
-  <tr>
-    <td><code>Infrastructure</code></td>
-    <td><strong>ONLINE</strong></td>
-  </tr>
-  <tr>
-    <td><code>Knowledge</code></td>
-    <td><strong>INDEXED</strong></td>
-  </tr>
-  <tr>
-    <td><code>Automation</code></td>
-    <td><strong>ACTIVE</strong></td>
-  </tr>
-</table>
+<p align="center">
+  <code>root@aitops:~$ ./inventory</code>
+  <br><br>
+  <img alt="Infrastructure: Online" src="https://img.shields.io/badge/INFRASTRUCTURE-ONLINE-7BB725?style=for-the-badge&amp;labelColor=141A10">
+  <img alt="Knowledge: Indexed" src="https://img.shields.io/badge/KNOWLEDGE-INDEXED-7BB725?style=for-the-badge&amp;labelColor=141A10">
+  <img alt="Automation: Active" src="https://img.shields.io/badge/AUTOMATION-ACTIVE-7BB725?style=for-the-badge&amp;labelColor=141A10">
+</p>
 
 ## Featured work
 
