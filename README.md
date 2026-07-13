@@ -34,5 +34,5 @@ Automation      ACTIVE
 ## Current signal
 
 - Building practical AI infrastructure that connects software to real devices.
-- Prototyping embedded hardware and device-in-loop validation workflows.
-- Engineering automation and observability systems for device infrastructure and hardware validation.
+- Prototyping embedded hardware and device-in-loop test workflows.
+- Engineering automation and observability systems for connected device infrastructure.
