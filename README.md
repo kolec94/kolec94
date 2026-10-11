@@ -35,7 +35,7 @@ USB HID and device-control experiments with a published GitHub Pages project sit
 
 ---
 
-### [Wemos WiFi Broadcaster →](https://github.com/kolec94/wemos-wifi-barodcaster)
+### [Wemos WiFi Broadcaster →](https://github.com/kolec94/wemos-wifi-broadcaster)
 
 ![Enterprise Hardware Lab](https://img.shields.io/badge/ENTERPRISE-HARDWARE_LAB-7BB725?style=flat-square&labelColor=141A10)
 ![ESP8266](https://img.shields.io/badge/ESP8266-141A10?style=flat-square&logo=espressif&logoColor=7BB725)
@@ -45,13 +45,13 @@ Captive-portal firmware backed by a purpose-built hardware test harness.
 
 ---
 
-### [ESP32-S3 LED Matrix Agent →](https://github.com/kolec94/esp32-agent-example)
+### [Altoid eInk Reader →](https://github.com/kolec94/altoid-eink)
 
-![Agent-Driven Firmware](https://img.shields.io/badge/AGENT--DRIVEN-FIRMWARE-7BB725?style=flat-square&labelColor=141A10)
-![ESP32-S3](https://img.shields.io/badge/ESP32--S3-141A10?style=flat-square&logo=espressif&logoColor=7BB725)
-![PlatformIO](https://img.shields.io/badge/PLATFORMIO-141A10?style=flat-square&logo=platformio&logoColor=7BB725)
+![Pocket Hardware](https://img.shields.io/badge/POCKET-HARDWARE-7BB725?style=flat-square&labelColor=141A10)
+![Raspberry Pi Pico](https://img.shields.io/badge/RP2040-141A10?style=flat-square&logo=raspberrypi&logoColor=7BB725)
+![MicroPython](https://img.shields.io/badge/MICROPYTHON-141A10?style=flat-square&logo=micropython&logoColor=7BB725)
 
-8×8 LED matrix sketches — IMU tilt games, a WiFi web control panel, and RSSI visualization — with a Claude Code skill automating build, upload, and debug.
+Battery-powered eInk reader that fits in an Altoids tin — reads `.txt` files off microSD with three-button navigation.
 
 ## `root@aitops:~$ ./signal --current`
 
