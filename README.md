@@ -43,16 +43,6 @@ USB HID and device-control experiments with a published GitHub Pages project sit
 
 Captive-portal firmware backed by a purpose-built hardware test harness.
 
----
-
-### [NOC Simulator →](https://github.com/kolec94/NOC-Simulator)
-
-![IT Operations](https://img.shields.io/badge/IT-OPERATIONS-7BB725?style=flat-square&labelColor=141A10)
-![Observability](https://img.shields.io/badge/OBSERVABILITY-141A10?style=flat-square&logo=grafana&logoColor=7BB725)
-![Simulation](https://img.shields.io/badge/SIMULATION-141A10?style=flat-square&logoColor=7BB725)
-
-Network operations simulation for practicing alerts, incident response, and observability flows.
-
 ## `root@aitops:~$ ./signal --current`
 
 ![Device AI](https://img.shields.io/badge/DEVICE_AI-7BB725?style=flat-square&labelColor=141A10) Building practical AI infrastructure that connects software to real devices.
