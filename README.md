@@ -43,6 +43,16 @@ USB HID and device-control experiments with a published GitHub Pages project sit
 
 Captive-portal firmware backed by a purpose-built hardware test harness.
 
+---
+
+### [ESP32-S3 LED Matrix Agent →](https://github.com/kolec94/esp32-agent-example)
+
+![Agent-Driven Firmware](https://img.shields.io/badge/AGENT--DRIVEN-FIRMWARE-7BB725?style=flat-square&labelColor=141A10)
+![ESP32-S3](https://img.shields.io/badge/ESP32--S3-141A10?style=flat-square&logo=espressif&logoColor=7BB725)
+![PlatformIO](https://img.shields.io/badge/PLATFORMIO-141A10?style=flat-square&logo=platformio&logoColor=7BB725)
+
+8×8 LED matrix sketches — IMU tilt games, a WiFi web control panel, and RSSI visualization — with a Claude Code skill automating build, upload, and debug.
+
 ## `root@aitops:~$ ./signal --current`
 
 ![Device AI](https://img.shields.io/badge/DEVICE_AI-7BB725?style=flat-square&labelColor=141A10) Building practical AI infrastructure that connects software to real devices.
