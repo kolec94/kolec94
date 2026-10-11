@@ -11,7 +11,7 @@
 Focused work across embedded hardware, test rigs, local AI, and infrastructure tooling.
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-7BB725?style=for-the-badge&logo=githubpages&logoColor=0B0F0A)](https://kolec94.github.io/)
-[![T--Dongle HID](https://img.shields.io/badge/T--DONGLE_HID-141A10?style=for-the-badge&logo=espressif&logoColor=7BB725)](https://kolec94.github.io/tdongle-s3-hid/)
+[![ESP32-S3 HID](https://img.shields.io/badge/ESP32--S3_HID-141A10?style=for-the-badge&logo=espressif&logoColor=7BB725)](https://kolec94.github.io/esp32-s3-hid-dongle/)
 
 </div>
 
@@ -25,7 +25,7 @@ Focused work across embedded hardware, test rigs, local AI, and infrastructure t
 
 ## `root@aitops:~$ ./featured-work`
 
-### [T-Dongle S3 HID →](https://github.com/kolec94/tdongle-s3-hid)
+### [ESP32-S3 HID Dongle →](https://github.com/kolec94/esp32-s3-hid-dongle)
 
 ![Local AI / Device Control](https://img.shields.io/badge/LOCAL_AI-DEVICE_CONTROL-7BB725?style=flat-square&labelColor=141A10)
 ![ESP32-S3](https://img.shields.io/badge/ESP32--S3-141A10?style=flat-square&logo=espressif&logoColor=7BB725)
